@@ -1,7 +1,7 @@
-# Modern Web Intro
+# Modern Web Intro (in development)
 
 A set of examples and instructions to guide you though the crazy modern web-stack
-from HTML 101 to TypeScript and React (in development).
+from HTML 101 to TypeScript and React.
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ Required
   - Chrome or FireFox (your choice)
 
 Optional (but very nice to have)
-  - React Developer Tools: (Chrome)[https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en] (FireFox)[https://addons.mozilla.org/en-US/firefox/addon/react-devtools/]
+  - React Developer Tools: [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) [FireFox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
   - VSCode Plugins (installed via the sidebar in-app)
     - ESLint
     - TSLint

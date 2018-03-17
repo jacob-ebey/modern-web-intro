@@ -1,6 +1,7 @@
 {
   "name": "modern-web-intro",
   "version": "0.1.0",
+  "description": "A set of examples and instructions to guide you though the crazy modern web-stack from HTML 101 to TypeScript and React (in development).",
   "private": true,
   "scripts": {
     "postinstall": "rush install"
