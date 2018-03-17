@@ -1,0 +1,34 @@
+<html lang="en">
+<head>
+  <title>Some JavaScript :D</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <article>
+    <h1>Some JavaScript :D</h1>
+
+    <p>
+      JavaScript is a scripting language that runs in all the web browsers. It is useful for
+      interacting with the DOM and responding to user input.
+    </p>
+
+    <button onclick="changeColor()">Click Me</button>
+    <h2 id='sample-text'>I change colors!</h2>
+  </article>
+
+  <script>
+    var isGreen = false
+    var textElement = document.getElementById('sample-text')
+
+    function changeColor () {
+      if (isGreen) {
+        textElement.style.color = 'black'
+      } else {
+        textElement.style.color = 'green'
+      }
+
+      isGreen = !isGreen
+    }
+  </script>
+</body>
+</html>

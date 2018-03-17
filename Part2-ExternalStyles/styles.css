@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+h1 {
+  color: brown;
+}
+
+p {
+  color: blue;
+}
+
+.text-right {
+  color: white;
+  text-align: right;
+}

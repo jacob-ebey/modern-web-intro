@@ -1,0 +1,16 @@
+{
+  "rushVersion": "4.3.0",
+  "npmVersion": "5.7.1",
+  "nodeSupportedVersionRange": ">=8.9.0 <9.0.0",
+
+  "projects": [
+    {
+      "packageName": "part4-sometypescript",
+      "projectFolder": "Part4-SomeTypeScript"
+    },
+    {
+      "packageName": "part5-allthetypescript",
+      "projectFolder": "Part5-AllTheTypeScript"
+    }
+  ]
+}
