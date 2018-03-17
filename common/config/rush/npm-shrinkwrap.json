@@ -34,9 +34,9 @@
         }
       }
     },
-    "@rush-temp/part4-sometypescript": {
-      "version": "file:projects/part4-sometypescript.tgz",
-      "integrity": "sha512-wzhXwLX3+k6SWyxZO6qq7a9CYyH7Gx6r2vTrIMbUAjk7XdxsKgP2DK53Tn6uLCl6nPL8TO4sTyNNl/BFxDNTJw==",
+    "@rush-temp/part5-sometypescript": {
+      "version": "file:projects/part5-sometypescript.tgz",
+      "integrity": "sha512-k86k9PVkF9KSWUgj5uI5bppmJIWsWO2hbsRAEU5cKbMOSmjtVILJ6MnWOkBoIGbP/T6iudSHJJ7VKNgPZJQBnw==",
       "requires": {
         "@types/jest": "22.2.0",
         "@types/node": "9.4.7",
@@ -49,9 +49,9 @@
         "typescript": "2.7.2"
       }
     },
-    "@rush-temp/part5-allthetypescript": {
-      "version": "file:projects/part5-allthetypescript.tgz",
-      "integrity": "sha512-EoQ1RRt6hm6QgwBvy1fo5cdSqpW+4HIGP7x+KfBNHgqMjRppczhlhiFy1ZCoXxhF2ncOjX/e3CYRzhSe4FAcqg==",
+    "@rush-temp/part6-allthetypescript": {
+      "version": "file:projects/part6-allthetypescript.tgz",
+      "integrity": "sha512-U6mSdNoXs9CKtjxMXjxz8grecrY1N/mspCQ7MDDVzmrInZS6feiSeDzLwli3oy7Zvkv7bjX4t6UwUFseDdjpOQ==",
       "requires": {
         "@types/jest": "22.2.0",
         "@types/node": "9.4.7",

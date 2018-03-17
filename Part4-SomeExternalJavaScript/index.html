@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+  <title>Some JavaScript :D</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <article>
+    <h1>Some External JavaScript :D</h1>
+
+    <p>
+      Just like CSS, JavaScript can clutter up your HTML files and it is good practice to put
+      functionality into separate <em>.js</em> files.
+    </p>
+
+    <p>
+      All the <em>script</em> script tags are loaded and executed as they are loaded. That
+      allows us to include our external files and reference the functions we define in them.
+    </p>
+
+    <p>
+      If you have fast enough eyes, you may notice the bold headers below flash up near the top
+      of the screen before the JavaScript can fully load and execute to generate the list of items.
+    </p>
+
+    <h2>This content was added on top of the original:</h2>
+    <div id="sample-div-1">Original Content :)</div>
+    
+    <h2>This content has replaced the original:</h2>
+    <div id="sample-div-2">Original Content :(</div>
+  </article>
+
+  <script src="library.js"></script>
+  <script src="entry.js"></script>
+</body>
+</html>
