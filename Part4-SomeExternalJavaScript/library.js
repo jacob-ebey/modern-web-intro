@@ -15,3 +15,7 @@ function addToElement (id, count, reset = false) {
     element.appendChild(newItem)
   }
 }
+
+function showmethemoney () {
+  alert("MONEY")
+}

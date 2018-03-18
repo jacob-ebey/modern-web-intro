@@ -5,6 +5,10 @@
 
   "projects": [
     {
+      "packageName": "ariya-p",
+      "projectFolder": "Ariya P"
+    },
+    {
       "packageName": "part5-sometypescript",
       "projectFolder": "Part5-SomeTypeScript"
     },
