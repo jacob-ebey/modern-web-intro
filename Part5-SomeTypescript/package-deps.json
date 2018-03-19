@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Part5-SomeTypescript/.gitignore": "d30f40ef4422ff27041df9dba83e4bd26849dc48",
+    "Part5-SomeTypescript/package-deps.json": "b8983cdea2ca2d276098e2dbe32d6e95f277025a",
+    "Part5-SomeTypescript/package.json": "feff9e277f57961c7488bc7d4c6c72f791d87e58",
+    "Part5-SomeTypescript/public/favicon.ico": "a11777cc471a4344702741ab1c8a588998b1311a",
+    "Part5-SomeTypescript/public/index.html": "ed0ebafa1b7c3057e5fc3eddbdf9e4c2c46de805",
+    "Part5-SomeTypescript/public/manifest.json": "ef19ec243e739479802a5553d0b38a18ed845307",
+    "Part5-SomeTypescript/src/App.css": "b169d1258d0ada9d0f38efb904ce0ed6326b7674",
+    "Part5-SomeTypescript/src/App.tsx": "95fbfdbd17967b064eff914d0b00ea8a1ad51651",
+    "Part5-SomeTypescript/src/index.tsx": "e0ee0a4eda1a9e8cee657068bdbe1db81f82b1be",
+    "Part5-SomeTypescript/src/logo.svg": "6b60c1042f58d9fabb75485aa3624dddcf633b5c",
+    "Part5-SomeTypescript/src/styles.css": "b4cc7250b98cb3f1a2dd5bec134296c6942344d9",
+    "Part5-SomeTypescript/tsconfig.json": "2320f5ec6b7372b10e8d9741fd7c9b29e3e4a529",
+    "Part5-SomeTypescript/tsconfig.test.json": "65ffdd493929cf996f7f185609fb9f3f7f14184b",
+    "Part5-SomeTypescript/tslint.json": "9516cd31afcaab624d0c32a525b2a71dace0fd6b",
+    "common/config/rush/npm-shrinkwrap.json": "d85ffa48f24db7c867eaf334dbbfd0733f1e995c"
+  },
+  "arguments": "react-scripts-ts build "
+}

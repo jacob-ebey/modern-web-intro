@@ -1,0 +1,7 @@
+Error: C:\Users\Jacob Ebey\Documents\git\modern-web-intro\Part7-WebAPI\dist\public is already exist!
+    at C:\Users\Jacob Ebey\Documents\git\modern-web-intro\common\temp\node_modules\node-mv\index.js:57:31
+    at C:\Users\Jacob Ebey\Documents\git\modern-web-intro\common\temp\node_modules\node-mv\node_modules\async\lib\async.js:629:17
+    at C:\Users\Jacob Ebey\Documents\git\modern-web-intro\common\temp\node_modules\node-mv\node_modules\async\lib\async.js:154:25
+    at C:\Users\Jacob Ebey\Documents\git\modern-web-intro\common\temp\node_modules\node-mv\node_modules\async\lib\async.js:626:21
+    at C:\Users\Jacob Ebey\Documents\git\modern-web-intro\common\temp\node_modules\node-mv\index.js:51:72
+    at FSReqWrap.cb [as oncomplete] (fs.js:312:19)

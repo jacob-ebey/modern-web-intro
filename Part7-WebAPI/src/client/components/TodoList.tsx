@@ -1,6 +1,7 @@
 import * as React from 'react'
+import axios from 'axios'
 
-import { ITodoItem } from '../interfaces/Todo'
+import { ITodoItem } from 'interfaces/Todo'
 import { TodoItem } from './TodoItem'
 
 interface ITodoListState {
@@ -14,6 +15,19 @@ export class TodoList extends React.Component<{}, ITodoListState> {
     todoItems: [],
     newLabel: '',
     showOnlyActive: false
+  }
+
+  public componentWillMount () {
+    axios.get('/api/todoItems').then((response) => {
+      if (response.data) {
+        this.setState({
+          todoItems: [
+            ...response.data,
+            ...this.state.todoItems
+          ]
+        })
+      }
+    })
   }
 
   public render () {

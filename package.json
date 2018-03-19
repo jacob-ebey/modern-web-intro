@@ -9,5 +9,6 @@
   },
   "devDependencies": {
     "@microsoft/rush": "^4.3.0"
-  }
+  },
+  "proxy": "http://localhost:3001"
 }

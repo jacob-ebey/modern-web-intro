@@ -1,0 +1,32 @@
+{
+  "files": {
+    "Part7-WebAPI/.gitignore": "2028e0ae8999b3dfe953addc11bc87209c7af341",
+    "Part7-WebAPI/Part7-WebAPI.build.error.log": "7d9a2870093285e95eded69b2574de52cea57075",
+    "Part7-WebAPI/nodemon.json": "623e93e3c62cc18f3ef05d1671ef625c01ba5035",
+    "Part7-WebAPI/package-lock.json": "314569f8c6c5285465cb5115991ac677fde1677f",
+    "Part7-WebAPI/package.json": "e3d5822337cbb0c5970591f3c000330aba6aa7d0",
+    "Part7-WebAPI/public/favicon.ico": "a11777cc471a4344702741ab1c8a588998b1311a",
+    "Part7-WebAPI/public/index.html": "ed0ebafa1b7c3057e5fc3eddbdf9e4c2c46de805",
+    "Part7-WebAPI/public/manifest.json": "ef19ec243e739479802a5553d0b38a18ed845307",
+    "Part7-WebAPI/src/backend/authorization/AuthHandler.ts": "89b86e78e9047b16100bc68e3aa6606dbfe381d3",
+    "Part7-WebAPI/src/backend/authorization/decorators.ts": "6253d02a8edf84e61f0c6a47def6e0027d9649fe",
+    "Part7-WebAPI/src/backend/authorization/index.ts": "58c2bbd2341f62f5277ca08605774607a8b5b69c",
+    "Part7-WebAPI/src/backend/controllers/api.ts": "64658a256fe455158a6a91e7839eb541a82c3a58",
+    "Part7-WebAPI/src/backend/index.ts": "33d8f510d91de4620cc724f97f3e6a5fdc5494ef",
+    "Part7-WebAPI/src/client/App.css": "b169d1258d0ada9d0f38efb904ce0ed6326b7674",
+    "Part7-WebAPI/src/client/App.test.tsx": "8ffd11654e4c97788ecc038b5c391e5193bb1094",
+    "Part7-WebAPI/src/client/App.tsx": "c5ba9d4ececf9d4948bcf7887a708a2baf89ee40",
+    "Part7-WebAPI/src/client/components/TodoItem.tsx": "a6ba5ff0d4a0c84121194cc55c932af1304ca955",
+    "Part7-WebAPI/src/client/components/TodoList.tsx": "f93cd4c015162e6c5225f6e763b5cff29d12d219",
+    "Part7-WebAPI/src/client/logo.svg": "6b60c1042f58d9fabb75485aa3624dddcf633b5c",
+    "Part7-WebAPI/src/index.css": "b4cc7250b98cb3f1a2dd5bec134296c6942344d9",
+    "Part7-WebAPI/src/index.tsx": "994355e82a2c008d66964115c70d13a555ddd768",
+    "Part7-WebAPI/src/interfaces/Todo.ts": "52f424fb9e7171632dcb73e93381442e84732de8",
+    "Part7-WebAPI/src/registerServiceWorker.ts": "004bd6f1fb38f5ca94bb15d6b385c66e335ae08f",
+    "Part7-WebAPI/tsconfig.json": "e366f8b7816a0973c6467b6b6b6915eb06d43b05",
+    "Part7-WebAPI/tsconfig.server.json": "f03c997477e27b040b10938600070edbb07e74ee",
+    "Part7-WebAPI/tslint.json": "9516cd31afcaab624d0c32a525b2a71dace0fd6b",
+    "common/config/rush/npm-shrinkwrap.json": "d85ffa48f24db7c867eaf334dbbfd0733f1e995c"
+  },
+  "arguments": "rmdir-cli dist && npm run build:concurrent && node-mv build dist/public "
+}

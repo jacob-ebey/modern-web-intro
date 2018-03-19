@@ -1,0 +1,24 @@
+{
+  "files": {
+    "Part6-AllTheTypescript/.gitignore": "d30f40ef4422ff27041df9dba83e4bd26849dc48",
+    "Part6-AllTheTypescript/package-deps.json": "4030728b3c2490d55340658bfaef626fe1867a4d",
+    "Part6-AllTheTypescript/package.json": "675e4675e85bc429c1fddb8f187334776ff410c4",
+    "Part6-AllTheTypescript/public/favicon.ico": "a11777cc471a4344702741ab1c8a588998b1311a",
+    "Part6-AllTheTypescript/public/index.html": "ed0ebafa1b7c3057e5fc3eddbdf9e4c2c46de805",
+    "Part6-AllTheTypescript/public/manifest.json": "ef19ec243e739479802a5553d0b38a18ed845307",
+    "Part6-AllTheTypescript/src/App.css": "b169d1258d0ada9d0f38efb904ce0ed6326b7674",
+    "Part6-AllTheTypescript/src/App.test.tsx": "8ffd11654e4c97788ecc038b5c391e5193bb1094",
+    "Part6-AllTheTypescript/src/App.tsx": "c5ba9d4ececf9d4948bcf7887a708a2baf89ee40",
+    "Part6-AllTheTypescript/src/components/TodoItem.tsx": "cf3e4897112ce1d2bbf809591b0c7fadaf3b9b5e",
+    "Part6-AllTheTypescript/src/components/TodoList.tsx": "0657c3eb37fd2a43ebc54b309fe6add87e6d0de1",
+    "Part6-AllTheTypescript/src/index.css": "b4cc7250b98cb3f1a2dd5bec134296c6942344d9",
+    "Part6-AllTheTypescript/src/index.tsx": "a398a806f5cd472cab04f54769ee5be1175e6b2a",
+    "Part6-AllTheTypescript/src/interfaces/Todo.ts": "52f424fb9e7171632dcb73e93381442e84732de8",
+    "Part6-AllTheTypescript/src/logo.svg": "6b60c1042f58d9fabb75485aa3624dddcf633b5c",
+    "Part6-AllTheTypescript/src/registerServiceWorker.ts": "004bd6f1fb38f5ca94bb15d6b385c66e335ae08f",
+    "Part6-AllTheTypescript/tsconfig.json": "2320f5ec6b7372b10e8d9741fd7c9b29e3e4a529",
+    "Part6-AllTheTypescript/tslint.json": "9516cd31afcaab624d0c32a525b2a71dace0fd6b",
+    "common/config/rush/npm-shrinkwrap.json": "d85ffa48f24db7c867eaf334dbbfd0733f1e995c"
+  },
+  "arguments": "react-scripts-ts build "
+}

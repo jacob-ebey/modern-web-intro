@@ -11,6 +11,10 @@
     {
       "packageName": "part6-allthetypescript",
       "projectFolder": "Part6-AllTheTypeScript"
+    },
+    {
+      "packageName": "part7-webapi",
+      "projectFolder": "Part7-WebAPI"
     }
   ]
 }

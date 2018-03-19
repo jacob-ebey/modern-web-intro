@@ -5,5 +5,3 @@ node_modules
 /common/temp/**
 
 */*.build.log
-
-*/package-deps.json

@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { ITodoItem } from '../interfaces/Todo'
+import { ITodoItem } from 'interfaces/Todo'
 
 export interface ITodoItemProps {
   item: ITodoItem
